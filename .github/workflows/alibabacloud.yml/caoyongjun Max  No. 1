@@ -1,0 +1,7 @@
+import"x"
+  ifx<0
+  else:y=2x+8
+  ifx>0
+  else:y=2x^8+8
+  ifx=0
+  else:y=0
